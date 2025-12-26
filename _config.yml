@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhaochen Su's Homepage"
-description              : "Less is More"
-repository               : "zhaochen0110/zhaochen0110.github.io"
+title                    : "Tan Yu's Homepage"
+description              : "Always moving forward, never settling"
+repository               : "jiayoujiayoujiayoua/jiayoujiayoujiayoua.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhaochen Su"
-  avatar           : "images/szc.jpeg"
-  bio              : "Hong Kong University of Science and Technology"
+  name             : "Tan Yu"
+  avatar           : "images/yt.jpg"
+  bio              : "Soul AIGC Team"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ponDXAYAAAAJ"
-  email            : "suzhaochen0110@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=HexPVkIAAAAJ&hl=zh-CN"
+  email            : "1875202618@qq.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zhaochen0110"
+  github           : "jiayoujiayoujiayoua"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "zhaochen-su-4a103b295"
+  linkedin         : # "zhaochen-su-4a103b295"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "SuZhaochen0110" 
+  twitter          : # "SuZhaochen0110" 
   vine             :
   weibo            :
   xing             :

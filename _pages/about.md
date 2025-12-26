@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Tan Yu(余潭). I am currently an Algorithm Engineer at the Soul AIGC team. I received my Bachelor’s and Master’s degrees from Soochow University, under the supervision of Professor [Jingjing Wang](https://scst.suda.edu.cn/11/b1/c11250a528817/page.htm). My research interests include generative models and image/video generation.
+I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC team. I received my Bachelor’s and Master’s degrees from Soochow University, under the supervision of Professor [Jingjing Wang](https://scst.suda.edu.cn/11/b1/c11250a528817/page.htm). My research interests include generative models and image/video generation.
 
 
 # 🔥 News

@@ -49,7 +49,7 @@ with Multi-Reference Autoregression](https://arxiv.org/abs/2506.09482), Dingchen
 
 # 💻 Internships
 - <img src="images/yuanjing_logo.png" alt="sym" width="6%"> *2024.09 - 2024.12*, [Yuan Jing, Alibaba Group](https://www.yuanjingos.com/), China.
-- <img src="images/netease_logo.png" alt="netease" width="4%"> *2024.05 - 2024.08*, [Netease-Games-AI-Lab-Guangzhou](https://ailab.netease.com/), China.
+- <img src="images/netease_logo.png" alt="netease" width="5%"> *2024.05 - 2024.08*, [Netease-Games-AI-Lab-Guangzhou](https://ailab.netease.com/), China.
 
 
 # 🗺️ Visitors

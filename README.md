@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Zhaochen Su's Homepage
+Tan Yu's Homepage
 </h1>
 
 <div align="center">

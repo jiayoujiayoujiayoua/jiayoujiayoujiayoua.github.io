@@ -24,6 +24,22 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 - *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://github.com/transdiff/transdiff), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (100+🌟 on GitHub)! 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/transdiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Marrying Autoregressive Transformer and Diffusion with Multi-Reference Autoregression
+
+  Dingcheng Zhen', **Qian Qiao'**, Tan Yu, Xu Zhen, Kangxi Wu,
+
+  *Technical Report, 2025.*
+
+  [**[arxiv]**](https://arxiv.org/pdf/2506.09482) 
+  [**[code]**](GitHub - TransDiff/TransDiff) 
+  <!-- [**[project]**](https://qqq.github.io/omg-project/)  -->
+  [![GitHub](https://img.shields.io/github/stars/TransDiff/TransDiff.svg?style=social&amp;label=Official)](GitHub - TransDiff/TransDiff)
+  [![Citations](https://img.shields.io/badge/Citations-1-007EC6?style=flat-square)](https://scholar.google.com.hk/scholar?hl=zh-CN&as_sdt=0%2C5&q=Marrying+Autoregressive+Transformer+and+Diffusion+with+Multi-Reference+Autoregression&btnG=)
+</div>
+</div>
 - ``Arxiv 25.08`` [RAP: Real-time Audio-driven Portrait Animation with Video Diffusion
 Transformer](https://arxiv.org/pdf/2508.05115), Fangyu Du, Taiqing Li, Qian Qiao, **Tan Yu**, Dingcheng Zhen, Xu Jia, Yang Yang, Shunshun Yin, Siyuan Liu
 

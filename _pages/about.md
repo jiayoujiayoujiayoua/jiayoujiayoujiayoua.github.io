@@ -21,7 +21,7 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 
 
 # 🔥 News
-- *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://arxiv.org/abs/2506.09482), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (100+🌟 on GitHub)! 
+- *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://github.com/transdiff/transdiff), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (100+🌟 on GitHub)! 
 
 # 📝 Publications 
 - ``Arxiv 25.08`` [RAP: Real-time Audio-driven Portrait Animation with Video Diffusion

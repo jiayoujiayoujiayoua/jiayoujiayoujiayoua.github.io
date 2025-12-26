@@ -17,15 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhaochen Su (苏肇辰), a first-year PhD student co-supervised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/) at the Hong Kong University of Science and Technology (HKUST).
+I’m Tan Yu(余潭). I am currently an Algorithm Engineer at the Soul AIGC team. I received my Bachelor’s and Master’s degrees from Soochow University, under the supervision of Professor Jingjing Wang. My research interests include generative models and image/video generation."
 
-I obtained my Bachelor's and Master's degrees from Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
-
-🧠 In the era of generative AI, I am passionate about understanding knowledge and reasoning in LLM/LVLM. My work has explored the mechanisms of model knowledge (ConflictBank), the adaptation to time-sensitive knowledge (LMLM, SG-TLM), and universal temporal reasoning (CotempoQA, Timo).
-
-🤖 Now, in the era of agentic AI, I am highly interested in the next generation of multimodal agent models. My current focus is on training complex, human-like think-act models that leverage advanced and diverse multimodal toolsets (Openthinkimg).
-
-📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?* — Just some of my thoughts.
 
 # 🔥 News
 - *2025.7*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (1k+🌟 on GitHub)! 

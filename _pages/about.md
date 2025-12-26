@@ -17,68 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m Tan Yu(余潭). I am currently an Algorithm Engineer at the Soul AIGC team. I received my Bachelor’s and Master’s degrees from Soochow University, under the supervision of Professor Jingjing Wang. My research interests include generative models and image/video generation."
+I’m Tan Yu(余潭). I am currently an Algorithm Engineer at the Soul AIGC team. I received my Bachelor’s and Master’s degrees from Soochow University, under the supervision of Professor [Jingjing Wang](https://scst.suda.edu.cn/11/b1/c11250a528817/page.htm). My research interests include generative models and image/video generation.
 
 
 # 🔥 News
-- *2025.7*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (1k+🌟 on GitHub)! 
-- *2025.5*: &nbsp;🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images (300+🌟 on GitHub)! .
-- *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
+- *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://arxiv.org/abs/2506.09482), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (100+🌟 on GitHub)! 
 
 # 📝 Publications 
+- ``Arxiv 25.08`` [RAP: Real-time Audio-driven Portrait Animation with Video Diffusion
+Transformer](https://arxiv.org/pdf/2508.05115), Fangyu Du, Taiqing Li, Qian Qiao, **Tan Yu**, Dingcheng Zhen, Xu Jia, Yang Yang, Shunshun Yin, Siyuan Liu
 
-- ``Arxiv 25.07`` [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/pdf/2506.23918) **Zhaochen Su**, Peng Xia, Hangyu Guo, Zhenhua Liu, Yan Ma, Xiaoye Qu, Jiaqi Liu, Yanshu Li, Kaide Zeng, Zhengyuan Yang, Linjie Li, Yu Cheng, Heng Ji, Junxian He, Yi R. Fung
+- ``Arxiv 25.06`` [Marrying Autoregressive Transformer and Diffusion
+with Multi-Reference Autoregression](https://arxiv.org/abs/2506.09482), Dingcheng Zhen, Qian Qiao, **Tan Yu**, Ruixin Zhang, Siyuan Liu, Shunshun Yin, Xu Zheng
 
-- ``Arxiv 25.05``[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/pdf/2505.08617), **Zhaochen Su**, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng
+- ``ACM MM 2024``[Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating](https://dl.acm.org/doi/10.1145/3664647.3681487), **Tan Yu**, Jingjing Wang, Jiawen Wang, Jiamin Luo, Guodong Zhou
 
-- ``ACL 2025`` [PRMBench: A Fine-grained and Challenging Benchmark for
-Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, **Zhaochen Su**, Xiaoye Qu, Jiawei Zhou, Yu Cheng
-
-- ``Neurips 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
-
-- ``COLM 2024`` [Timo: Towards Better Temporal Reasoning for Language Models](https://arxiv.org/pdf/2406.14192), **Zhaochen Su**, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, Yu Cheng.
-
-- ``ACL 2024 oral`` [Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?](https://arxiv.org/pdf/2406.09072), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
-
-- ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/pdf/2409.14083), Jiashuo Sun, Jihai Zhang, Yucheng Zhou, **Zhaochen Su**, Xiaoye Qu, Yu Cheng
-
-- ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
-
-- ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
-
-- ``Arxiv 25.03`` [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614), Xiaoye Qu, Yafu Li, **Zhaochen Su**, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng
-
-
+- ``Neurocomputing 2024`` [TACL: A Trusted Action-enhanced Curriculum Learning Approach to Multimodal Affective Computing](https://www.sciencedirect.com/science/article/abs/pii/S0925231224019660), **Tan Yu**, Jingjing Wang, Jiawen Wang, Jiamin Luo, Guodong Zhou
 
 
 # 🎖 Honors and Awards
 - National Scholarship in China
-- Soochow University Graduate Outstanding Scholarship (Rank 1st)
-- The Samsung Scholarship
-- China Software Design Competition -- First Prize (National Level, Team Leader)
-- Chinese Collegiate Computing Competition -- Second Prize (National Level, Team Leader)
+- Outstanding Graduate Student Award, Soochow University
+- First-Class Graduate Scholarship, Soochow University
+
 
 # 📖 Educations
-- 2025.09 - 2028.6 (expected), PhD, Computer Science & Engineering Department, HKUST, Hong Kong.
-- *2022.09 - 2025.07*, Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2022.09 - 2025.07*, Master, Natural Language Processing Laboratory, Soochow University, Suzhou.
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
-- *2021.07 - 2022.07*, Dual Degree, Brain Science, Soochow University, Suzhou.
-
-# 💁 Volunteer
-- **Area Chair:** ACL ARR 2025, ACL-25, EMNLP-25
-- **Reviewer:** COLM-25, ICLR-25, Neurips-25, ARR-24,  EMNLP-24, MM-24, ACL-24, COLM-24
-- *2023.09 - 2024.12*, Soochow University Graduate Student Union - **President**
-- *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - **President**
 
 
 
 # 💻 Internships
-- *2023.10 - 2025.05*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
-- *2021.06 - 2021.09*, [World Heritage Institute of Training and Research for the Asia and the Pacific Region under the auspices of UNESCO](http://www.whitr-ap.org/), China.
+- *2024.09 - 2024.12*, [Yuan Jing, Alibaba Group](https://www.yuanjingos.com/), China.
+- *2024.05 - 2024.08*, [Netease-Games-AI-Lab-Guangzhou](http://www.whitr-ap.org/](https://ailab.netease.com/)), China.
 
 
-# 🎨 Miscellaneous
-I’m passionate about photography, philosophy, and sports. Staying active is a daily priority for me — some of my go-to activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. I love the challenge of pushing my limits and exploring the outdoors. If you’re into fitness too, feel free to reach out to me, and let’s keep each other motivated!
+
 
 
 

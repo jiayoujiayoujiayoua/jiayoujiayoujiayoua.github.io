@@ -25,15 +25,14 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 - *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://github.com/transdiff/transdiff), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (140+🌟 on GitHub)! 
 
 # 📝 Publications 
-- ``Arxiv 25.12`` [SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven
-Avatars via Self-Correcting Bidirectional Distillation](https://arxiv.org/pdf/2512.23379), Le Shen^∗, Qian Qiao^∗, Tan Yu^∗, Ke Zhou,
-Tianhang Yu, Yu Zhan, Zhenjie Wang, Dingcheng Zhen, Ming Tao, Shunshun Yin, Siyuan Liu
+- ``Arxiv 25.12`` [SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven 
+Avatars via Self-Correcting Bidirectional Distillation](https://arxiv.org/pdf/2512.23379), Le Shen<sup>∗</sup>, Qian Qiao<sup>∗</sup>, **Tan Yu**<sup>∗</sup>, Ke Zhou, Tianhang Yu, Yu Zhan, Zhenjie Wang, Dingcheng Zhen, Ming Tao, Shunshun Yin, Siyuan Liu
 
 - ``Arxiv 25.08`` [RAP: Real-time Audio-driven Portrait Animation with Video Diffusion
 Transformer](https://arxiv.org/pdf/2508.05115), Fangyu Du, Taiqing Li, Qian Qiao, **Tan Yu**, Dingcheng Zhen, Xu Jia, Yang Yang, Shunshun Yin, Siyuan Liu
 
 - ``Arxiv 25.06`` [Marrying Autoregressive Transformer and Diffusion
-with Multi-Reference Autoregression](https://arxiv.org/abs/2506.09482), Dingcheng Zhen, Qian Qiao, **Tan Yu**, Ruixin Zhang, Siyuan Liu, Shunshun Yin, Xu Zheng
+with Multi-Reference Autoregression](https://arxiv.org/abs/2506.09482), Dingcheng Zhen<sup>∗</sup>, Qian Qiao<sup>∗</sup>, **Tan Yu**<sup>∗</sup>, Ruixin Zhang, Siyuan Liu, Shunshun Yin, Xu Zheng
 
 - ``ACM MM 2024``[Towards Emotion-enriched Text-to-Motion Generation via LLM-guided Limb-level Emotion Manipulating](https://dl.acm.org/doi/10.1145/3664647.3681487), **Tan Yu**, Jingjing Wang, Jiawen Wang, Jiamin Luo, Guodong Zhou
 

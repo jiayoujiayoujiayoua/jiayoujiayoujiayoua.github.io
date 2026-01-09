@@ -26,7 +26,7 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 
 # 📝 Publications 
 - ``Arxiv 25.12`` [SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven
-Avatars via Self-Correcting Bidirectional Distillation](https://arxiv.org/pdf/2512.23379), Le Shen^∗, Qian Qiao^∗, Tan Yu^∗, Ke Zhou,
+Avatars via Self-Correcting Bidirectional Distillation](https://arxiv.org/pdf/2512.23379), Le Shen<sup>∗</sup>, Qian Qiao^∗, Tan Yu^∗
 Tianhang Yu, Yu Zhan, Zhenjie Wang, Dingcheng Zhen, Ming Tao, Shunshun Yin, Siyuan Liu
 
 - ``Arxiv 25.08`` [RAP: Real-time Audio-driven Portrait Animation with Video Diffusion

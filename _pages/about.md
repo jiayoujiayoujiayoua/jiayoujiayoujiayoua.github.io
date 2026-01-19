@@ -21,7 +21,7 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashTalk?tab=readme-ov-file), SoulX-FlashTalk is the first 14B model to achieve a sub-second start-up latency (0.87s) while sustaining a real-time throughput of 32 FPS. (200+🌟 on GitHub)! 
+- *2025.12*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashTalk?tab=readme-ov-file), SoulX-FlashTalk is the first 14B model to achieve a sub-second start-up latency (0.87s) while sustaining a real-time throughput of 32 FPS. (300+🌟 on GitHub)! 
 - *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://github.com/transdiff/transdiff), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (140+🌟 on GitHub)! 
 
 # 📝 Publications 

@@ -21,14 +21,14 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashTalk?tab=readme-ov-file), SoulX-FlashTalk is the first 14B model to achieve a sub-second start-up latency (0.87s) while sustaining a real-time throughput of 32 FPS. (300+🌟 on GitHub)! 
+- *2025.12*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashTalk?tab=readme-ov-file), SoulX-FlashTalk is the first 14B model to achieve a sub-second start-up latency (0.87s) while sustaining a real-time throughput of 32 FPS. (400+🌟 on GitHub)! 
 - *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://github.com/transdiff/transdiff), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (140+🌟 on GitHub)! 
 
 # 📝 Publications 
 - ``Arxiv 25.12`` [SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven 
 Avatars via Self-Correcting Bidirectional Distillation](https://arxiv.org/pdf/2512.23379), Le Shen<sup>∗</sup>, Qian Qiao<sup>∗</sup>, **Tan Yu**<sup>∗</sup>, Ke Zhou, Tianhang Yu, Yu Zhan, Zhenjie Wang, Dingcheng Zhen, Ming Tao, Shunshun Yin, Siyuan Liu
 
-- ``Arxiv 25.08`` [RAP: Real-time Audio-driven Portrait Animation with Video Diffusion
+- ``ICASSP 2026`` [RAP: Real-time Audio-driven Portrait Animation with Video Diffusion
 Transformer](https://arxiv.org/pdf/2508.05115), Fangyu Du, Taiqing Li, Qian Qiao, **Tan Yu**, Dingcheng Zhen, Xu Jia, Yang Yang, Shunshun Yin, Siyuan Liu
 
 - ``Arxiv 25.06`` [Marrying Autoregressive Transformer and Diffusion

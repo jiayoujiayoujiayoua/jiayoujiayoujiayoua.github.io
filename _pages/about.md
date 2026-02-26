@@ -21,10 +21,13 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashTalk?tab=readme-ov-file), SoulX-FlashTalk is the first 14B model to achieve a sub-second start-up latency (0.87s) while sustaining a real-time throughput of 32 FPS. (400+🌟 on GitHub)! 
-- *2025.6*: &nbsp;🎉🎉 Check out our new [project](https://github.com/transdiff/transdiff), the first image generation model that marries Autoregressive (AR) Transformer with diffusion models. (140+🌟 on GitHub)! 
+- *2026.02*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashHead), SoulX-FlashHead is the first talking head model capable of real-time performance on consumer-grade GPUs, such as the RTX 4090 and 5090. (200+🌟 on GitHub)! 
+- *2025.12*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashTalk?tab=readme-ov-file), SoulX-FlashTalk is the first 14B model to achieve a sub-second start-up latency (0.87s) while sustaining a real-time throughput of 32 FPS. (1k+🌟 on GitHub)! 
 
 # 📝 Publications 
+- ``Arxiv 26.02`` [SoulX-FlashHead: Oracle-guided Generation of Infinite Real-time
+Streaming Talking Heads](https://arxiv.org/pdf/2602.07449), **Tan Yu**<sup>∗</sup>, Qian Qiao<sup>∗</sup>, Le Shen<sup>∗</sup>, Ke Zhou, Jincheng Hu, Dian Sheng, Bo Hu, Haoming Qin, Jun Gao, Changhai Zhou, Shunshun Yin, Siyuan Liu
+
 - ``Arxiv 25.12`` [SoulX-FlashTalk: Real-Time Infinite Streaming of Audio-Driven 
 Avatars via Self-Correcting Bidirectional Distillation](https://arxiv.org/pdf/2512.23379), Le Shen<sup>∗</sup>, Qian Qiao<sup>∗</sup>, **Tan Yu**<sup>∗</sup>, Ke Zhou, Tianhang Yu, Yu Zhan, Zhenjie Wang, Dingcheng Zhen, Ming Tao, Shunshun Yin, Siyuan Liu
 

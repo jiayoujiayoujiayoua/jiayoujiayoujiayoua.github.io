@@ -21,7 +21,7 @@ I’m Tan Yu (余潭). I am currently an Algorithm Engineer at the Soul AIGC tea
 
 
 # 🔥 News
-- *2026.02*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashHead), **SoulX-FlashHead** is the first talking head model capable of real-time performance on consumer-grade GPUs, such as the RTX 4090 and 5090. (200+🌟 on GitHub)! 
+- *2026.02*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashHead), **SoulX-FlashHead** is the first talking head model capable of real-time performance on consumer-grade GPUs, such as the RTX 4090 and 5090. (500+🌟 on GitHub)! 
 - *2025.12*: &nbsp;🎉🎉 Check out our new [project](https://github.com/Soul-AILab/SoulX-FlashTalk?tab=readme-ov-file), **SoulX-FlashTalk** is the first 14B model to achieve a sub-second start-up latency (0.87s) while sustaining a real-time throughput of 32 FPS. (1k+🌟 on GitHub)! 
 
 # 📝 Publications 
